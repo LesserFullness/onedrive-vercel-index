@@ -55,6 +55,14 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/LesserFullness',
     },
+    {
+      name: 'Blog',
+      link: 'https://blog.wouldfull.eu.org',
+    },
+    {
+      name: 'AI助手',
+      link: 'https://ai.wouldfull.eu.org',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
