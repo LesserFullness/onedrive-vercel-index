@@ -52,6 +52,10 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: '主页',
+      link: 'https://wouldfull.eu.org/',
+    },
+    {
       name: 'GitHub',
       link: 'https://github.com/LesserFullness',
     },
